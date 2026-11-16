@@ -83,13 +83,13 @@
         <mxCell id="cell27" parent="1" edge="1" value="" source="cell6" target="cell10" style="edgeStyle=none;endArrow=none;startArrow=none;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.6210526315789474;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell28" parent="1" edge="1" value="" source="cell10" target="cell14" style="edgeStyle=none;endArrow=none;startArrow=none;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.6210526315789474;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;">
+        <mxCell id="cell28" parent="1" edge="1" value="" source="cell10" target="cell14" style="edgeStyle=none;endArrow=none;startArrow=diamond;startFill=1;startSize=10;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.6210526315789474;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell29" parent="1" edge="1" value="" source="cell2" target="cell18" style="edgeStyle=none;endArrow=none;startArrow=none;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell30" parent="1" edge="1" value="" source="cell18" target="cell22" style="edgeStyle=none;endArrow=none;startArrow=none;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;">
+        <mxCell id="cell30" parent="1" edge="1" value="" source="cell18" target="cell22" style="edgeStyle=none;endArrow=none;startArrow=diamond;startFill=1;startSize=10;endSize=7;strokeWidth=1.4;strokeColor=#161616;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell31" parent="1" vertex="1" value="относится" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#161616;fontStyle=0;movable=1;">
